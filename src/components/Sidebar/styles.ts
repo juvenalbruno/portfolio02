@@ -17,6 +17,7 @@ export const SidebarComponent = styled.div`
     a {
         color: #FFF;
         font-family:"Ubuntu", sans-serif;
+        font-weight: 400;
         font-size: 24px;
     }
 `;

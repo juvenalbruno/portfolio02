@@ -5,6 +5,10 @@ export function Home() {
     return (
         <SC.HomeComponent>
             <Sidebar />
-        </SC.HomeComponent>
+            <SC.HomeComponentTitle>
+                <h1>Juvenal Bruno</h1>
+                <p>Desenvolvedor Full Stack</p>
+            </SC.HomeComponentTitle>
+        </SC.HomeComponent> 
     );
 }
